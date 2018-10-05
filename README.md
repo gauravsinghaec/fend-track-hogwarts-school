@@ -1,9 +1,9 @@
-[![GitHub issues](https://img.shields.io/github/issues/Google-India-Scholars-Official/fend-track-fend-grow-together.svg)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Google-India-Scholars-Official/fend-track-fend-grow-together.svg)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/Google-India-Scholars-Official/fend-track-fend-grow-together.svg?style=social&label=Fork)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/network)
-[![GitHub stars](https://img.shields.io/github/stars/Google-India-Scholars-Official/fend-track-fend-grow-together.svg?style=social&label=Stars)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/Google-India-Scholars-Official/fend-track-fend-grow-together.svg?style=social&label=Watch)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/Google-India-Scholars-Official/fend-track-fend-grow-together.svg)](https://github.com/Google-India-Scholars-Official/fend-track-fend-grow-together/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/Google-India-Scholars-Official/fend-track-hogwarts-school.svg)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Google-India-Scholars-Official/fend-track-hogwarts-school.svg)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/Google-India-Scholars-Official/fend-track-hogwarts-school.svg?style=social&label=Fork)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/network)
+[![GitHub stars](https://img.shields.io/github/stars/Google-India-Scholars-Official/fend-track-hogwarts-school.svg?style=social&label=Stars)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/Google-India-Scholars-Official/fend-track-hogwarts-school.svg?style=social&label=Watch)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Google-India-Scholars-Official/fend-track-hogwarts-school.svg)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/graphs/contributors)
 
 # Google India Scholar Collaborative Project- FEND Phase 2
 
