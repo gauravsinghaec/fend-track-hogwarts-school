@@ -1,0 +1,15 @@
+{
+  "author": "Gaurav Singh",
+  "name": "gis-collab-project-phase-II",
+  "version": "1.0.0",
+  "description": "The Project is all about demonstrating your skills aquired in the Nanodegree Scholarship.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
