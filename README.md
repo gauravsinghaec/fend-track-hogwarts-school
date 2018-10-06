@@ -6,6 +6,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Google-India-Scholars-Official/fend-track-hogwarts-school.svg)](https://github.com/Google-India-Scholars-Official/fend-track-hogwarts-school/graphs/contributors)
 
 # Google India Scholar Collaborative Project- FEND Phase 2
+This is the project for Google India Scholars, Phase-2 for Front End Nanodegree Course. The project ideas need to be finalized and it will be well under the Nanodegree curriculum. This focuses mainly to expand your knowledge of working with the open source project using Git & GitHub. This will help you in your job as well as the reqruiters are happy to see good team player.
 
 **Co-Mods**
 - Gaurav Singh   (@gauravsinghaec)
@@ -56,3 +57,4 @@ This style guide acts as the official guide to follow in your projects. Udacity 
 
 ## Acknowledgments
 **Special Thanks to @saif.udacity and @akshit.udacity!!!**
+* You can reach out to @GauravSingh.FEND on slack for any questions regarding FEND Collaborative projects phase 2.
